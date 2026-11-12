@@ -1,0 +1,36 @@
+### Criar cliente
+POST http://localhost:18130/clientes
+Content-Type: application/json
+
+{"nome":"Willian Douglas Ferreira1813098","clienteDesde":"2026-11-12"}
+
+### Criar produto
+POST http://localhost:18130/produtos
+Content-Type: application/json
+
+{"nome":"Baozi tradicional","preco":8.50,"estoque":true}
+
+### Criar pedido (substitua os IDs pelos retornados)
+POST http://localhost:18130/pedidos
+Content-Type: application/json
+
+{"clienteId":1,"produtoId":1,"quantidade":4}
+
+### Listar clientes
+GET http://localhost:18130/clientes
+### Listar produtos
+GET http://localhost:18130/produtos
+### Listar pedidos
+GET http://localhost:18130/pedidos
+### Consultar cliente
+GET http://localhost:18130/clientes/1
+### Consultar produto
+GET http://localhost:18130/produtos/1
+### Consultar pedido
+GET http://localhost:18130/pedidos/1
+### Excluir pedido antes dos cadastros
+DELETE http://localhost:18130/pedidos/1
+### Excluir cliente
+DELETE http://localhost:18130/clientes/1
+### Excluir produto
+DELETE http://localhost:18130/produtos/1

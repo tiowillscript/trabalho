@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1050" height="1250" viewBox="0 0 1050 1250">
+<rect width="1050" height="1250" fill="white"/>
+<g font-family="Arial, sans-serif" fill="#000" stroke="#000" stroke-width="2.2">
+<rect x="315" y="70" width="715" height="1140" fill="white"/>
+<text x="672" y="111" text-anchor="middle" stroke="none" font-size="27" font-weight="bold">API REST Baozi Store</text>
+<circle cx="125" cy="557" r="23" fill="white"/>
+<path d="M125 580 V665 M125 604 L75 638 M125 604 L180 620 M125 665 L87 720 M125 665 L163 720" fill="none"/>
+<text x="125" y="760" text-anchor="middle" stroke="none" font-size="25">Usuário da API</text>
+<line x1="180" y1="620" x2="410" y2="168"/>
+<ellipse cx="680" cy="168" rx="270" ry="30" fill="white"/>
+<text x="680" y="177" text-anchor="middle" stroke="none" font-size="25">Cadastrar cliente</text>
+<line x1="180" y1="620" x2="410" y2="256"/>
+<ellipse cx="680" cy="256" rx="270" ry="30" fill="white"/>
+<text x="680" y="265" text-anchor="middle" stroke="none" font-size="25">Listar clientes</text>
+<line x1="180" y1="620" x2="410" y2="344"/>
+<ellipse cx="680" cy="344" rx="270" ry="30" fill="white"/>
+<text x="680" y="353" text-anchor="middle" stroke="none" font-size="25">Consultar cliente por ID</text>
+<line x1="180" y1="620" x2="410" y2="432"/>
+<ellipse cx="680" cy="432" rx="270" ry="30" fill="white"/>
+<text x="680" y="441" text-anchor="middle" stroke="none" font-size="25">Excluir cliente</text>
+<line x1="180" y1="620" x2="410" y2="520"/>
+<ellipse cx="680" cy="520" rx="270" ry="30" fill="white"/>
+<text x="680" y="529" text-anchor="middle" stroke="none" font-size="25">Cadastrar produto</text>
+<line x1="180" y1="620" x2="410" y2="608"/>
+<ellipse cx="680" cy="608" rx="270" ry="30" fill="white"/>
+<text x="680" y="617" text-anchor="middle" stroke="none" font-size="25">Listar produtos</text>
+<line x1="180" y1="620" x2="410" y2="696"/>
+<ellipse cx="680" cy="696" rx="270" ry="30" fill="white"/>
+<text x="680" y="705" text-anchor="middle" stroke="none" font-size="25">Consultar produto por ID</text>
+<line x1="180" y1="620" x2="410" y2="784"/>
+<ellipse cx="680" cy="784" rx="270" ry="30" fill="white"/>
+<text x="680" y="793" text-anchor="middle" stroke="none" font-size="25">Excluir produto</text>
+<line x1="180" y1="620" x2="410" y2="872"/>
+<ellipse cx="680" cy="872" rx="270" ry="30" fill="white"/>
+<text x="680" y="881" text-anchor="middle" stroke="none" font-size="25">Cadastrar pedido</text>
+<line x1="180" y1="620" x2="410" y2="960"/>
+<ellipse cx="680" cy="960" rx="270" ry="30" fill="white"/>
+<text x="680" y="969" text-anchor="middle" stroke="none" font-size="25">Listar pedidos</text>
+<line x1="180" y1="620" x2="410" y2="1048"/>
+<ellipse cx="680" cy="1048" rx="270" ry="30" fill="white"/>
+<text x="680" y="1057" text-anchor="middle" stroke="none" font-size="25">Consultar pedido por ID</text>
+<line x1="180" y1="620" x2="410" y2="1136"/>
+<ellipse cx="680" cy="1136" rx="270" ry="30" fill="white"/>
+<text x="680" y="1145" text-anchor="middle" stroke="none" font-size="25">Excluir pedido</text>
+</g></svg>
